@@ -50,4 +50,4 @@ def internal_error(error):
 def log_request_info():
     logging.info(f"Petición recibida: {request.method} {request.url}")
     auth_header = request.headers.get("Authorization")
-    logging.info(f"Cabecera de Autorización: {auth_header}")
+    logging.info(f"Cabecera Autorización: {auth_header}")
