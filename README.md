@@ -20,7 +20,6 @@ Esta fase se centra en el desarrollo y despliegue de una API construida con Flas
 
 Este proyecto es una parte integral del ecosistema más amplio que incluye otras fases y aplicaciones. Para más detalles sobre cómo esta fase se integra con los demás componentes, se puede referir a:
 
-- [API Docker Ngrok](https://github.com/GRKdev/api-docker-ngrok)
 - [Proyecto Principal - Chatbot StreamLit](https://github.com/GRKdev/StreamLit-Api)
 - [Script para la Preparación de Datos](https://github.com/GRKdev/Script-SQL-API)
 
