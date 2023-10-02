@@ -10,6 +10,9 @@ services:
     environment:
       - SECRET_KEYS=your-jwt-secret-keys
       - MONGO_URI=your-mongo-uri
+    # Development
+    volumes:
+      - .:/app            
     networks:
       - app_network
 
