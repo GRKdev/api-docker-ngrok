@@ -12,7 +12,7 @@ fields_to_sort_clients = [
     "CodigoPostal",
     "Comercial",
     "Tarifa",
-    "Formapago",
+    "FormadePago",
     "CifDni",
     "IBAN",
     "FechaAlta",
